@@ -1,2 +1,2 @@
 # 1-new
-understanding the git and github.
+Understanding the git and github.
